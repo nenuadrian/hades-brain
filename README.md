@@ -1,5 +1,7 @@
 # Hades Brain
 
+https://vulkan-tutorial.com/Compute_Shader
+
 ```
 python -m venv ml_env
 pip install jupyter
